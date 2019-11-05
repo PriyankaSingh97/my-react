@@ -53,9 +53,9 @@ const ButtonExampleSocial = () => (
     <Button color='google plus'>
       <Icon name='google plus' /> Google Plus
     </Button>
-    {/* <Button color='vk'>
+    <Button color='vk'>
       <Icon name='vk' /> VK
-    </Button> */}
+    </Button>
     <Button color='linkedin' >
       <Icon name='linkedin' /> LinkedIn
     </Button>
